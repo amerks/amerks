@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @amerks
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Azure Integration
+- 🌱  BizTalk Server since 2003
+- Azure Integration since 2012
 - 📫 How to reach me @avanzar.nl
 
 <!---
